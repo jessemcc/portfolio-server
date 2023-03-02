@@ -1,0 +1,53 @@
+[
+  {
+    "id": "c2be0047-bb31-4b84-a0f1-79890c133987",
+    "title": "Book Bazaar",
+    "description": "A website that is made for those up and coming authors who don't have the money to pay for a publisher. Can easily upload your books to book bazaar and start making sales and a profit. It's also for those readers who are looking for a different author.",
+    "techs": [
+      "HTML",
+      "CSS",
+      "Sass",
+      "JavaScript",
+      "React",
+      "Node",
+      "MySQL",
+      "Heroku",
+      "netlify",
+      "Express",
+      "GitHub",
+      "Knex",
+      "Jwt",
+      "Stripe API"
+    ],
+    "link": "https://thebookbazaar.netlify.app/",
+    "repo": "https://github.com/jessemcc/Book_Bazaar_client",
+    "image": "/images/bookbazaar.png"
+  },
+  {
+    "id": "3ff8d9ca-044f-401c-850c-89ad3413ee37",
+    "title": "Air Canada Industry Project",
+    "description": "As part of an Air Canada project, our team of software engineers, data scientists, and UX designers collaborated to improve the Aeroplan webpage. We used data analysis and technical expertise to enhance usability and create a streamlined user experience, resulting in increased customer satisfaction.",
+    "techs": ["HTML", "CSS", "Sass", "JavaScript", "React", "GitHub"],
+    "link": "",
+    "repo": "https://github.com/jessemcc/air-code-ada",
+    "image": "/images/aircanada.png"
+  },
+  {
+    "id": "c7490d90-a781-4aa6-a360-5a069d285bdf",
+    "title": "Trivia Trials",
+    "description": "In a hackathon working with Hilary and Justin, we created Trivia Trials which is an exciting game featuring 100+ questions and 4 possible answers, similar to Who Wants to Be a Millionaire. Challenge yourself and friends to test your knowledge and become the ultimate trivia champion!",
+    "techs": ["HTML", "CSS", "Sass", "JavaScript", "GitHub"],
+    "link": "",
+    "repo": "https://github.com/jessemcc/Trivia-Trials",
+    "image": "/images/triviatrials.png"
+  },
+  {
+    "id": "818b8a31-acd1-43b8-b793-8e07c1920307",
+    "title": "ActiNext",
+    "description": "As part of paired-programming challenge with Dixon, we created ActiNext which is a website for indecisive people. With over 50 activities to choose from, it suggests options like reading, hiking, or road-tripping. Never be bored again!",
+    "techs": ["HTML", "CSS", "Sass", "JavaScript", "react", "Node", "Express"],
+    "link": "",
+    "repo": "https://github.com/jessemcc/ActiNext",
+    "image": "/images/actinext.png"
+  }
+]
