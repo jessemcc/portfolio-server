@@ -45,7 +45,16 @@
     "id": "818b8a31-acd1-43b8-b793-8e07c1920307",
     "title": "ActiNext",
     "description": "As part of paired-programming challenge with Dixon, we created ActiNext which is a website for indecisive people. With over 50 activities to choose from, it suggests options like reading, hiking, or road-tripping. Never be bored again!",
-    "techs": ["HTML", "CSS", "Sass", "JavaScript", "react", "Node", "Express"],
+    "techs": [
+      "HTML",
+      "CSS",
+      "Sass",
+      "JavaScript",
+      "react",
+      "Node",
+      "Express",
+      "github"
+    ],
     "link": "",
     "repo": "https://github.com/jessemcc/ActiNext",
     "image": "/images/actinext.png"
