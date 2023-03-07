@@ -22,7 +22,8 @@
     ],
     "link": "https://thebookbazaar.netlify.app/",
     "repo": "https://github.com/jessemcc/Book_Bazaar_client",
-    "image": "/images/bookbazaar.png"
+    "image": "/images/bookbazaar.png",
+    "video": "/videos/Book_Bazaar_Live_Demo.mp4"
   },
   {
     "id": "3ff8d9ca-044f-401c-850c-89ad3413ee37",
@@ -31,7 +32,8 @@
     "techs": ["HTML", "CSS", "Sass", "JavaScript", "React", "GitHub"],
     "link": "",
     "repo": "https://github.com/jessemcc/air-code-ada",
-    "image": "/images/aircanada.png"
+    "image": "/images/aircanada.png",
+    "video": "/video/Air_Canada_Industry_Project.mp4"
   },
   {
     "id": "c7490d90-a781-4aa6-a360-5a069d285bdf",
@@ -40,7 +42,8 @@
     "techs": ["HTML", "CSS", "Sass", "JavaScript", "GitHub"],
     "link": "",
     "repo": "https://github.com/jessemcc/Trivia-Trials",
-    "image": "/images/triviatrials.png"
+    "image": "/images/triviatrials.png",
+    "video": "/video/Trivia_Trials.mp4"
   },
   {
     "id": "818b8a31-acd1-43b8-b793-8e07c1920307",
@@ -59,7 +62,8 @@
     ],
     "link": "",
     "repo": "https://github.com/jessemcc/ActiNext",
-    "image": "/images/actinext.png"
+    "image": "/images/actinext.png",
+    "video": "/video/ActiNext.mp4"
   },
   {
     "id": "ace6289d-7584-40ff-8108-f52fc39bf300",
@@ -81,6 +85,7 @@
     ],
     "link": "https://jessemcconnell.netlify.app/",
     "repo": "https://github.com/jessemcc/my-portfolio",
-    "image": "/images/portfolio.png"
+    "image": "/images/portfolio.png",
+    "video": "/video/Jesse_Portfolio.mp4"
   }
 ]
