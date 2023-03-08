@@ -33,17 +33,17 @@
     "link": "",
     "repo": "https://github.com/jessemcc/air-code-ada",
     "image": "/images/aircanada.png",
-    "video": "/video/Air_Canada_Industry_Project.mp4"
+    "video": "/videos/Air_Canada_Industry_Project.mp4"
   },
   {
     "id": "c7490d90-a781-4aa6-a360-5a069d285bdf",
     "title": "Trivia Trials",
     "description": "In a hackathon working with Hilary and Justin, we created Trivia Trials which is an exciting game featuring 100+ questions and 4 possible answers, similar to Who Wants to Be a Millionaire. Challenge yourself and friends to test your knowledge and become the ultimate trivia champion!",
     "techs": ["HTML", "CSS", "Sass", "JavaScript", "GitHub"],
-    "link": "",
+    "link": "https://trivia-trials.netlify.app/",
     "repo": "https://github.com/jessemcc/Trivia-Trials",
     "image": "/images/triviatrials.png",
-    "video": "/video/Trivia_Trials.mp4"
+    "video": "/videos/Trivia_Trials.mp4"
   },
   {
     "id": "818b8a31-acd1-43b8-b793-8e07c1920307",
@@ -60,10 +60,10 @@
       "axios",
       "github"
     ],
-    "link": "",
+    "link": "https://actinext.netlify.app/",
     "repo": "https://github.com/jessemcc/ActiNext",
     "image": "/images/actinext.png",
-    "video": "/video/ActiNext.mp4"
+    "video": "/videos/ActiNext.mp4"
   },
   {
     "id": "ace6289d-7584-40ff-8108-f52fc39bf300",
@@ -83,9 +83,9 @@
       "nodemailer",
       "axios"
     ],
-    "link": "https://jessemcconnell.netlify.app/",
+    "link": "https://jessemcconnell.ca",
     "repo": "https://github.com/jessemcc/my-portfolio",
     "image": "/images/portfolio.png",
-    "video": "/video/Jesse_Portfolio.mp4"
+    "video": "/videos/My_Portfolio.mp4"
   }
 ]
